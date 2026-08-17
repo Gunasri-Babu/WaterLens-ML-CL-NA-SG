@@ -1,0 +1,7 @@
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+local.settings.json
+__pycache__/
+*.pyc
+*.pkl
