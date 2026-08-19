@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "LOG_LEVEL": "DEBUG",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+
+    "INFLUXDB_URL":   "https://us-central1-1.gcp.cloud2.influxdata.com",
+    "INFLUXDB_TOKEN": "cVmeasaNO9bPUQTtzQEgX1xOUmJgjmJa4HqCyncJv1KF7xQHmf8wKpGdtGqXZzLcjwvhfpCre_zNIq8Pjv0QLA==",
+    "INFLUXDB_ORG":   "it@waterlensusa.com",
+
+    "DEVICE_DATA_BUCKET":      "NEXTIER",
+    "DEVICE_DATA_MEASUREMENT": "sensorDataEnriched",
+    "PREDICTED_BUCKET":        "DATA_TESTS"
+  }
+}
